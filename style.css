@@ -1,0 +1,14 @@
+
+
+
+h1 {
+  text-align: center;
+  font-family: 'Impact', serif;
+}
+
+body{
+  text-align: center;
+  background-image: url('surf.jpg');
+  color: red;
+  font-family: 'Comic Sans MS', serif;
+}
